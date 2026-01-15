@@ -1,7 +1,7 @@
 ## Hi, I'm Vishal Verma 👋
 
-I'm a Machine Learning practitioner focused on building **end-to-end predictive systems**
-with an emphasis on **interpretability, deployment, and real-world decision-making**.
+I'm a Machine Learning practitioner focused on designing and deploying end-to-end predictive systems, with an emphasis on interpretability and real-world decision-making.
+
 
 ### 🔍 Areas of Interest
 - Explainable AI (SHAP, LIME, PDP)
