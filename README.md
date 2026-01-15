@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Vishal Verma 👋
 
-<!--
-**VishalVerma0310/VishalVerma0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning practitioner focused on building **end-to-end predictive systems**
+with an emphasis on **interpretability, deployment, and real-world decision-making**.
 
-Here are some ideas to get you started:
+### 🔍 Areas of Interest
+- Explainable AI (SHAP, LIME, PDP)
+- Credit Risk & Financial Machine Learning
+- Customer Churn Prediction
+- End-to-End ML Pipelines (Modeling → API → Deployment)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Programming: Python
+- ML & Data Science: Scikit-learn, CatBoost, XGBoost
+- Explainability: SHAP, LIME
+- Deployment: FastAPI, Streamlit
+- Tools: Git, GitHub, Jupyter Notebook, Google Colab
+
+### 📌 Featured Projects
+- **Customer Churn Prediction API**  
+  End-to-end churn modeling with CatBoost and FastAPI-based inference service.
+
+- **Loan Default Prediction System**  
+  Credit risk prediction using machine learning with interactive Streamlit interface.
+
+### 📫 Contact
+- Email: vermav0310@gmail.com
