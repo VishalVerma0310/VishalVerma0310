@@ -10,7 +10,7 @@ I'm a Machine Learning practitioner focused on designing and deploying end-to-en
 - End-to-End ML Pipelines (Modeling → API → Deployment)
 
 ### 🛠️ Technical Skills
-- Programming: Python
+- Programming: Python, HTML, CSS
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn  
 - ML & Data Science: Scikit-learn, CatBoost, XGBoost
 - Explainability: SHAP, LIME
