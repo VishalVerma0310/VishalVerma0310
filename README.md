@@ -1,4 +1,4 @@
-## Hi, I'm Vishal Verma 👋
+<h1 align="center">Hi 👋, I'm Vishal Verma</h1>
 
 I'm a Machine Learning practitioner focused on designing and deploying end-to-end predictive systems, with an emphasis on interpretability and real-world decision-making.
 
