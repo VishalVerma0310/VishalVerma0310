@@ -11,7 +11,7 @@ I'm a Machine Learning practitioner focused on designing and deploying end-to-en
 
 ### 🛠️ Technical Skills
 - Programming: Python
-- **Data Analysis:** dplyr, ggplot2, Pandas, NumPy, Matplotlib, Seaborn  
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn  
 - ML & Data Science: Scikit-learn, CatBoost, XGBoost
 - Explainability: SHAP, LIME
 - Deployment: FastAPI, Streamlit
