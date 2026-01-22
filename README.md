@@ -23,7 +23,6 @@ I'm a Machine Learning practitioner focused on designing and deploying end-to-en
 
 - **Loan Default Prediction System**  
   Credit risk prediction using machine learning with interactive Streamlit interface.
-  App- loan-default-prediction-system-vv.streamlit.app
 
 ### 📫 Contact
 - Email: vermav0310@gmail.com
